@@ -1,0 +1,11 @@
+[project]
+name = "ai"
+version = "0.1.0"
+description = "Activity Recognition model"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.2.3",
+    "ruff-lsp>=0.0.59",
+    "scikit-learn>=1.6.0",
+]
